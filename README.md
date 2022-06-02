@@ -1,29 +1,25 @@
-### Hi, i'm Axel Schwartz 👋
+# Hi, i'm Axel Schwartz 👋
 
 
-PHP Symfony backend developer, Tech enthusiast, I share on YouTube the rest of the time.
-🔭 I’m currently working on Cronify
+### Full Stack JS developer, Tech enthusiast, I share on YouTube the rest of the time.
+🔭 I’m currently working on Reeqord
 
-🌱 I’m currently learning Symfony, Javascript, VueJS, Docker, K3S
+* 🌱 I’m currently learning Javascript, Reactjs, Nodejs, MongoDB
 
-👯 I share mostly on GitLab
+* 👯 I share mostly on Twitter
 
-🤝 I’m looking for help with Roadmap Dev Symfony
+* 🤝 I’m looking for help with Reeqord
 
-👨‍💻 All of my projects are available at https://gitlab.com/yoandev.co
+* 👨‍💻 All of my projects are available at https://gitlab.com/axelschwartz
 
-📝 I regularly write articles on https://yoandev.co/blog
+* 📝 I regularly write articles on https://axelschwartz/blog
 
-💬 Ask me about Symfony
+* 💬 Ask me about Javascript
 
-📫 How to reach me contact@yoandev.co
+* 📫 How to reach me hello@axelschwartz.com
 
-📺 My videos are available here https://www.youtube.com/c/yoandevco
+* 📺 My videos are available here https://www.youtube.com/c/axelschwartz
 
 ⚡ Fun fact I'm a cool guy ;)
 
-Connect with me:
-yoyo38 yoan-bernabeu yoandevco
-
-Languages and Tools:
-bash bootstrap chartjs css3 docker git grafana graphql heroku html5 kibana linux mariadb mssql mysql php postgresql postman rabbitMQ sass symfony webpack
+## Open for new opportunities
