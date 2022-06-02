@@ -2,7 +2,8 @@
 
 
 ### Full Stack JS developer, Tech enthusiast, I share on YouTube the rest of the time.
-🔭 I’m currently working on Reeqord
+
+* 🔭 I’m currently working on Reeqord
 
 * 🌱 I’m currently learning Javascript, Reactjs, Nodejs, MongoDB
 
