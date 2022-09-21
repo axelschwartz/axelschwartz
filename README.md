@@ -1,26 +1,20 @@
 # Hi, i'm Axel Schwartz 👋
 
 
-### Full Stack JS developer, Tech enthusiast, I share on YouTube the rest of the time.
+### Full Stack JS developer, Tech enthusiast
 
-* 🔭 I’m currently working on Reeqord
+* 🔭 I’m currently working on side projects
 
 * 🌱 I’m currently learning Javascript, Reactjs, Nodejs, MongoDB
 
 * 👯 I share mostly on Twitter
 
-* 🤝 I’m looking for help with Reeqord
+* 🤝 I’m looking for open sources projects
 
-* 👨‍💻 All of my projects are available at https://gitlab.com/axelschwartz
+* 👨‍💻 All of my projects will be available at https://gitlab.com/axelschwartz
 
-* 📝 I regularly write articles on https://axelschwartz/blog
-
-* 💬 Ask me about Javascript
-
-* 📫 How to reach me hello@axelschwartz.com
-
-* 📺 My videos are available here https://www.youtube.com/c/axelschwartz
+* 📫 How to reach me : @theaxelschwartz on Twitter
 
 ⚡ Fun fact I'm a cool guy ;)
 
-## Open for new opportunities
+## Open for new opportunities 
