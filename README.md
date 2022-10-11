@@ -13,7 +13,7 @@
 
 * 👨‍💻 All of my projects will be available at https://gitlab.com/axelschwartz
 
-* 📫 How to reach me : @theaxelschwartz on Twitter
+* 📫 How to reach me : @axelcoding on Twitter
 
 ⚡ Fun fact I'm a cool guy ;)
 
