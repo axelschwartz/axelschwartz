@@ -1,19 +1,19 @@
 # Hi, i'm Axel Schwartz 👋
 
 
-### Full Stack JS developer, Tech enthusiast
+### Cybersecurity enthusiast, Ethical Hacker
 
 * 🔭 I’m currently working on side projects
 
-* 🌱 I’m currently learning Javascript, Reactjs, Nodejs, MongoDB
+* 🌱 I’m currently learning Python, Bash, SQL, Algorithms
 
 * 👯 I share mostly on Twitter
 
 * 🤝 I’m looking for open sources projects
 
-* 👨‍💻 All of my projects will be available at https://gitlab.com/axelschwartz
+* 👨‍💻 All of my projects will be available here
 
-* 📫 How to reach me : @axelcoding on Twitter
+* 📫 How to reach me : @0xaz3d on Twitter
 
 ⚡ Fun fact I'm a cool guy ;)
 
