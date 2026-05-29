@@ -13,7 +13,7 @@
 
 * 👨‍💻 All of my projects will be available here
 
-* 📫 How to reach me : @4zz3d on Twitter
+* 📫 How to reach me : @azz3d on Twitter
 
 ⚡ Fun fact I'm a cool guy ;)
 
